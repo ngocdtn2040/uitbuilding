@@ -1,0 +1,572 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport"
+          content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <title>GeoJSONLayer | Sample | ArcGIS API for JavaScript 4.16</title>
+
+    <style>
+        html,
+        body,
+        #viewDiv {
+            padding: 0;
+            margin: 0;
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+
+    <link rel="stylesheet"
+          href="https://js.arcgis.com/4.16/esri/themes/light/main.css" />
+    <script src="https://js.arcgis.com/4.16/"></script>
+
+    <script>
+        highlight = undefined;
+
+        require([
+            "esri/Map",
+            "esri/views/SceneView",
+            "esri/layers/GeoJSONLayer",
+            "esri/layers/SceneLayer",
+            "esri/views/MapView"
+        ], function (Map, SceneView, GeoJSONLayer, SceneLayer) {
+            nen = new GeoJSONLayer({
+                url: "https://localhost:44327/nen"
+            }),
+                nentang = new GeoJSONLayer({
+                    url: "https://localhost:44327/NenNha"
+                }),
+                nenham = new GeoJSONLayer({
+                    url: "data/Nenham.json"
+                }),
+                cotnha = new GeoJSONLayer({
+                    url: "data/cotnha.json"
+                }),
+                cotnha2 = new GeoJSONLayer({
+                    url: "data/cotnha2.json"
+                }),
+                cotnha3 = new GeoJSONLayer({
+                    url: "data/cotnha3.json"
+                }),
+                phonghoc = new GeoJSONLayer({
+                    url: "data/phonghoc.json"
+                }),
+                cuaso = new GeoJSONLayer({
+                    url: "data/cuaso.json"
+                }),
+                cuaso2 = new GeoJSONLayer({
+                    url: "data/cuaso2.json"
+                }),
+                cuaso3 = new GeoJSONLayer({
+                    url: "data/cuaso3.json"
+                }),
+                cuasonho = new GeoJSONLayer({
+                    url: "data/cuasonho.json"
+                }),
+                cuasovua = new GeoJSONLayer({
+                    url: "data/cuasovua.json"
+                }),
+                cuasosau = new GeoJSONLayer({
+                    url: "data/cuasosau.json"
+                }),
+                bacthang = new GeoJSONLayer({
+                    url: "data/bacthang.json"
+                }),
+                bacthangnho = new GeoJSONLayer({
+                    url: "data/Bacthangnho.json"
+                }),
+                behoa = new GeoJSONLayer({
+                    url: "data/Behoa.json"
+                }),
+                cir = new GeoJSONLayer({
+                    url: "data/cir.json"
+                }),
+                lancan = new GeoJSONLayer({
+                    url: "data/lancan.json"
+                }),
+                nentang2 = new GeoJSONLayer({
+                    url: "data/nennha.json"
+                }),
+                nhaA = new GeoJSONLayer({
+                    url: "data/NhaA.json"
+                }),
+                nhaC = new GeoJSONLayer({
+                    url: "data/NhaC.json"
+                }),
+                nen = new GeoJSONLayer({
+                    url: "data/nen.json"
+                }),
+                nhaE = new GeoJSONLayer({
+                    url: "data/NhaE.json"
+                }),
+                nhaA.renderer = {
+                    type: "simple",
+                    symbol: {
+                        type: "polygon-3d",
+                        symbolLayers: [
+
+                            {
+                                type: "extrude",
+                                size: 15,
+                                material: {
+                                    color: [255, 222, 173]
+                                },
+                                edges: {
+                                    type: "solid", // autocasts as new SolidEdges3D()
+                                    color: [50, 50, 50, 1]
+                                },
+
+                            }
+                        ]
+                    }
+                };
+            nhaE.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 55,
+                            material: {
+                                color: [152, 245, 255]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+            nhaC.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 20,
+                            material: {
+                                color: [230, 230, 250]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+            phonghoc.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 4,
+                            material: {
+                                color: [204, 255, 255]
+                            },
+                            edges: {
+                                type: "soft", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+
+            cotnha.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 26.9,
+                            material: {
+                                color: [204, 255, 255]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+
+            cotnha2.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 31.2,
+                            material: {
+                                color: [204, 255, 255]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+            cotnha3.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 39.9,
+                            material: {
+                                color: [204, 255, 255]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+            nen.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+                        {
+                            type: "extrude",
+                            size: 4,
+                            material: {
+                                color: [0, 124, 182]
+                            },
+                            edges: {
+                                type: "soft", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            }
+
+                        }
+                    ]
+                }
+            };
+            cir.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+                        {
+                            type: "extrude",
+                            size: 2,
+                            material: {
+                                color: [181, 181, 181]
+                            },
+                            edges: {
+                                type: "soft", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            }
+
+                        }
+                    ]
+                }
+            };
+            behoa.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+                        {
+                            type: "extrude",
+                            size: 4,
+                            material: {
+                                color: [130, 130, 130]
+                            },
+                            edges: {
+                                type: "soft", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            }
+
+                        }
+                    ]
+                }
+            };
+
+
+            nentang2.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+                        {
+                            type: "extrude",
+                            size: 0.6,
+                            material: {
+                                color: [0, 124, 182]
+                            },
+                            edges: {
+                                type: "soft", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            }
+
+                        }
+                    ]
+                }
+            };
+            nenham.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+                        {
+                            type: "extrude",
+                            size: 0.1,
+                            material: {
+                                color: [245, 245, 220]
+                            },
+                            edges: {
+                                type: "soft", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            }
+
+                        }
+                    ]
+                }
+            };
+            cuaso.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 40.8,
+                            material: {
+                                color: [152, 245, 255]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+            cuaso2.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 26.9,
+                            material: {
+                                color: [152, 245, 255]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+            cuaso3.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 31.8,
+                            material: {
+                                color: [152, 245, 255]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+            cuasonho.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 0.5,
+                            material: {
+                                color: [181, 181, 181]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+            cuasovua.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 2.3,
+                            material: {
+                                color: [245, 245, 220]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+            cuasosau.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 1.6,
+                            material: {
+                                color: [245, 245, 220]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+            bacthang.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 0.5,
+                            material: {
+                                color: [181, 181, 181]
+                            },
+                            edges: {
+                                type: "soft", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+            bacthangnho.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 0.5,
+                            material: {
+                                color: [130, 130, 130]
+                            },
+                            edges: {
+                                type: "soft", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+            lancan.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 0.1,
+                            material: {
+                                color: [0, 124, 182]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+
+            const map = new Map({
+                basemap: "topo-vector",
+                ground: "world-elevation",
+                layers: [nhaC, nhaE, nhaA, phonghoc, lancan, cir, nenham, behoa, bacthangnho, cuaso, cuasosau, cuaso2, cuaso3, cuasonho, cuasovua, nen, nentang2, cotnha, cotnha2, cotnha3, bacthang] //end layers
+            });
+
+            const view = new SceneView({
+                container: "viewDiv",
+                map: map,
+
+                camera: {
+                    position: [106.79896133488565, 10.84746232116585, 2073.31548],
+                    heading: 0,
+                    tilt: 75
+                }
+            });
+
+            view.popup.defaultPopupTemplateEnabled = true;
+        });
+
+    </script>
+
+</head>
+
+<body>
+    <div id="viewDiv"></div>
+
+</body>
+</html>

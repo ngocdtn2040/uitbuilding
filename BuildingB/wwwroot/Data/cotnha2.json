@@ -1,0 +1,31 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-08-27T10:45:03Z",
+    "features": [
+   
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "2",
+          "name": "cot nha 2"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+            [ 106.80388783542352, 10.870076185634953],
+            [ 106.80389584237896, 10.8700745541113],
+            [ 106.80390242376667, 10.870082921012624],
+            [ 106.80389281820543, 10.870086163754632]
+             
+            ]
+          ]
+        },
+        "id": "2"
+      }
+     
+    ]
+  }
+  

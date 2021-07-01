@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-08-27T10:45:03Z",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "2",
+          "name": "cua so"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              
+              [  106.80393751099429, 10.870004943344378,30.6],
+              [ 106.8039205252278, 10.870022711842800,30.6],
+              [  106.80394140483855, 10.870013419022252,30.6],
+              [  106.80392711971881, 10.870028656710874,30.6]
+             
+            ]
+          ]
+        },
+        "id": "2"
+      }
+    ]
+} 
