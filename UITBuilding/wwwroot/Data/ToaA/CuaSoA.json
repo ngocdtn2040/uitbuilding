@@ -2416,6 +2416,63 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 35 ],
+            [ 106.8028488, 10.8699597, 35 ],
+            [ 106.8028553, 10.8699647, 35 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 35 ],
+            [ 106.8028642, 10.8699714, 35 ],
+            [ 106.8028707, 10.8699764, 35 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 35 ],
+            [ 106.8028789, 10.8699831, 35 ],
+            [ 106.8028854, 10.8699881, 35 ]
+
+          ]
+        ]
+      }
     }
 
   ]
