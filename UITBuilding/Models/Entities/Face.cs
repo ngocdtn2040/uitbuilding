@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BuildingB.Models
+namespace UITBuilding.Models
 {
     public class Face
     {

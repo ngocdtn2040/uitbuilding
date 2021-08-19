@@ -1,4 +1,4 @@
-﻿using BuildingB.Models;
+﻿using UITBuilding.Models;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -8,7 +8,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BuildingB.Controllers
+namespace UITBuilding.Controllers
 {
     public class HomeController : Controller
     {

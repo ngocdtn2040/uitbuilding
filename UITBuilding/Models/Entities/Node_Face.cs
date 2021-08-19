@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BuildingB.Models
+namespace UITBuilding.Models
 {
-    public class Face_Body
+    public class Node_Face
     {
         public string Id { get; set; }
         public string Id_Face { get; set; }
-        public string Id_Body { get; set; }
+        public string Id_Node { get; set; }
         public int SEQ { get; set; }
     }
 }
