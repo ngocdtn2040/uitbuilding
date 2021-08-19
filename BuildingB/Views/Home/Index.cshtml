@@ -29,7 +29,8 @@
             "esri/views/SceneView",
             "esri/layers/GeoJSONLayer",
             "esri/layers/SceneLayer",
-            "esri/views/MapView"
+            "esri/views/MapView",
+            "esri/geometry/Polyline"
         ], function (Map, SceneView, GeoJSONLayer, SceneLayer) {
             nen = new GeoJSONLayer({
                 url: "https://localhost:44327/nen"
@@ -73,6 +74,11 @@
                 bacthang = new GeoJSONLayer({
                     url: "data/bacthang.json"
                 }),
+                //bacthangnhaA
+                bacthangnhaA = new GeoJSONLayer({
+                    url: "data/bacthangnhaA.json"
+                }),
+                //******
                 bacthangnho = new GeoJSONLayer({
                     url: "data/Bacthangnho.json"
                 }),
@@ -88,9 +94,6 @@
                 nentang2 = new GeoJSONLayer({
                     url: "data/nennha.json"
                 }),
-                nhaA = new GeoJSONLayer({
-                    url: "data/NhaA.json"
-                }),
                 nhaC = new GeoJSONLayer({
                     url: "data/NhaC.json"
                 }),
@@ -100,27 +103,32 @@
                 nhaE = new GeoJSONLayer({
                     url: "data/NhaE.json"
                 }),
-                nhaA.renderer = {
-                    type: "simple",
-                    symbol: {
-                        type: "polygon-3d",
-                        symbolLayers: [
-
-                            {
-                                type: "extrude",
-                                size: 15,
-                                material: {
-                                    color: [255, 222, 173]
-                                },
-                                edges: {
-                                    type: "solid", // autocasts as new SolidEdges3D()
-                                    color: [50, 50, 50, 1]
-                                },
-
-                            }
-                        ]
-                    }
-                };
+                nennhaA = new GeoJSONLayer({
+                    url: "data/nennhaA.json"
+                }),
+                //phonghocA
+                phonghocA = new GeoJSONLayer({
+                    url: "data/phonghocA.json"
+                }),
+                //tangtretA
+                tangtretA = new GeoJSONLayer({
+                    url: "data/tangtretA.json"
+                }),
+                //mainhaA
+                mainhaA = new GeoJSONLayer({
+                    url: "data/mainhaA.json"
+                }),
+                maitronA = new GeoJSONLayer({
+                    url: "data/maitronA.json"
+                }),
+                //Cua so nha A
+                cuasoA = new GeoJSONLayer({
+                    url: "Data/ToaA/CuaSoA.json"
+                }),
+                //Cua so nha A
+                maihienA = new GeoJSONLayer({
+                    url: "Data/ToaA/MaiHienA.json"
+                }),
             nhaE.renderer = {
                 type: "simple",
                 symbol: {
@@ -498,6 +506,29 @@
                     ]
                 }
             };
+            //bacthangnhaA
+            bacthangnhaA.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 0.7,
+                            material: {
+                                color: [79, 81, 84]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+            
             bacthangnho.renderer = {
                 type: "simple",
                 symbol: {
@@ -540,11 +571,169 @@
                     ]
                 }
             };
+            maitronA.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
 
+                        {
+                            type: "extrude",
+                            size: 4,
+                            material: {
+                                color: [209, 220, 216]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+            nennhaA.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 1,
+                            material: {
+                                color: [234, 234, 234]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1],
+                                size: 8
+                            },
+
+                        }
+                    ]
+                }
+            };
+            //phonghocA
+            phonghocA.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 6,
+                            material: {
+                                color: [234, 234, 234]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [225, 225, 225],//mau trang xam cua phong hoc
+                                size: 1
+                            },
+
+                        }
+                    ]
+                }
+            };
+            
+            //tangtretA
+            tangtretA.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 3,
+                            material: {
+                                color: [88, 98, 100]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+            //mainhaA
+            mainhaA.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 3,
+                            material: {
+                                color: [236, 193, 179]//mau gach ngoi
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [50, 50, 50, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+
+
+            //cua so A
+            cuasoA.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 0.2,
+                            material: {
+                                color: [183, 184, 179]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [234, 234, 234, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+
+            //mai hien A
+            maihienA.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 1,
+                            material: {
+                                color: [0, 255, 0]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [234, 234, 234, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
+          
             const map = new Map({
                 basemap: "topo-vector",
                 ground: "world-elevation",
-                layers: [nhaC, nhaE, nhaA, phonghoc, lancan, cir, nenham, behoa, bacthangnho, cuaso, cuasosau, cuaso2, cuaso3, cuasonho, cuasovua, nen, nentang2, cotnha, cotnha2, cotnha3, bacthang] //end layers
+                layers: [tangtretA, nennhaA, mainhaA, maitronA, phonghocA, bacthangnhaA, cuasoA, maihienA, nhaC, nhaE, phonghoc, lancan, cir, nenham, behoa, bacthangnho, cuaso, cuasosau, cuaso2, cuaso3, cuasonho, cuasovua, nen, nentang2, cotnha, cotnha2, cotnha3, bacthang] //end layers
             });
 
             const view = new SceneView({

@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-08-27T10:45:03Z",
+    "features": [
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bacthang11"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [ 106.802751956824, 10.8702430701383 ],
+                        [ 106.802621761119, 10.8702388821146 ],
+                        [ 106.802623170518, 10.8701401486719 ],
+                        [ 106.802750541164, 10.8701430371334 ]
+
+
+                    ]
+                ]
+
+            },
+            "id": "11"
+        }
+
+    ]
+  }
+  

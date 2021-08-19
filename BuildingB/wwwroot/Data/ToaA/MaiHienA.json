@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Mai hien"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.80273, 10.87026, 36 ],
+            [ 106.80271, 10.870245, 36 ],
+            [ 106.80271, 10.870145, 36 ],
+            [ 106.80273, 10.87013, 36 ],
+            [ 106.80274, 10.870145, 36 ],
+            [ 106.80274, 10.870245, 36 ]
+
+          ]
+        ]
+      },
+      "id": "2"
+    }
+  ]
+}
