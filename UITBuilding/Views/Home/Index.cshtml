@@ -129,6 +129,10 @@
                 maihienA = new GeoJSONLayer({
                     url: "Data/ToaA/MaiHienA.json"
                 }),
+                //Cua so nha A
+                giangduongA = new GeoJSONLayer({
+                    url: "Data/ToaA/GiangDuongA.json"
+                }),
             nhaE.renderer = {
                 type: "simple",
                 symbol: {
@@ -729,11 +733,34 @@
                     ]
                 }
             };
+
+            //Giang duong A
+            giangduongA.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 8.5,
+                            material: {
+                                color: [255, 255, 0]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [234, 234, 234, 1]
+                            },
+
+                        }
+                    ]
+                }
+            };
           
             const map = new Map({
                 basemap: "topo-vector",
                 ground: "world-elevation",
-                layers: [tangtretA, nennhaA, mainhaA, maitronA, phonghocA, bacthangnhaA, cuasoA, maihienA, nhaC, nhaE, phonghoc, lancan, cir, nenham, behoa, bacthangnho, cuaso, cuasosau, cuaso2, cuaso3, cuasonho, cuasovua, nen, nentang2, cotnha, cotnha2, cotnha3, bacthang] //end layers
+                layers: [tangtretA, nennhaA, mainhaA, maitronA, phonghocA, bacthangnhaA, cuasoA, maihienA, giangduongA, nhaC, nhaE, phonghoc, lancan, cir, nenham, behoa, bacthangnho, cuaso, cuasosau, cuaso2, cuaso3, cuasonho, cuasovua, nen, nentang2, cotnha, cotnha2, cotnha3, bacthang] //end layers
             });
 
             const view = new SceneView({

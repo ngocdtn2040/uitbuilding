@@ -2288,7 +2288,7 @@
       "type": "Feature",
       "properties": {
         "@id": "2",
-        "name": "cua so"
+        "name": "cua so huong nha B (R3)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2307,7 +2307,216 @@
       "type": "Feature",
       "properties": {
         "@id": "2",
-        "name": "cua so"
+        "name": "cua so huong nha B (R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 34.8 ],
+            [ 106.8031514, 10.8701365, 34.8 ],
+            [ 106.8031580, 10.8701300, 34.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 34.6 ],
+            [ 106.8031514, 10.8701365, 34.6 ],
+            [ 106.8031580, 10.8701300, 34.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 34.4 ],
+            [ 106.8031514, 10.8701365, 34.4 ],
+            [ 106.8031580, 10.8701300, 34.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 34.2 ],
+            [ 106.8031514, 10.8701365, 34.2 ],
+            [ 106.8031580, 10.8701300, 34.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 34 ],
+            [ 106.8031514, 10.8701365, 34 ],
+            [ 106.8031580, 10.8701300, 34 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 33.8 ],
+            [ 106.8031514, 10.8701365, 33.8 ],
+            [ 106.8031580, 10.8701300, 33.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 33.6 ],
+            [ 106.8031514, 10.8701365, 33.6 ],
+            [ 106.8031580, 10.8701300, 33.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 33.4 ],
+            [ 106.8031514, 10.8701365, 33.4 ],
+            [ 106.8031580, 10.8701300, 33.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 33.2 ],
+            [ 106.8031514, 10.8701365, 33.2 ],
+            [ 106.8031580, 10.8701300, 33.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 33 ],
+            [ 106.8031514, 10.8701365, 33 ],
+            [ 106.8031580, 10.8701300, 33 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 32.8 ],
+            [ 106.8031514, 10.8701365, 32.8 ],
+            [ 106.8031580, 10.8701300, 32.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R2)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2326,7 +2535,216 @@
       "type": "Feature",
       "properties": {
         "@id": "2",
-        "name": "cua so"
+        "name": "cua so huong nha B (R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 34.8 ],
+            [ 106.8031662, 10.8701218, 34.8 ],
+            [ 106.8031727, 10.8701153, 34.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 34.6 ],
+            [ 106.8031662, 10.8701218, 34.6 ],
+            [ 106.8031727, 10.8701153, 34.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 34.4 ],
+            [ 106.8031662, 10.8701218, 34.4 ],
+            [ 106.8031727, 10.8701153, 34.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 34.2 ],
+            [ 106.8031662, 10.8701218, 34.2 ],
+            [ 106.8031727, 10.8701153, 34.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 34 ],
+            [ 106.8031662, 10.8701218, 34 ],
+            [ 106.8031727, 10.8701153, 34 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 33.8 ],
+            [ 106.8031662, 10.8701218, 33.8 ],
+            [ 106.8031727, 10.8701153, 33.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 33.6 ],
+            [ 106.8031662, 10.8701218, 33.6 ],
+            [ 106.8031727, 10.8701153, 33.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 33.4 ],
+            [ 106.8031662, 10.8701218, 33.4 ],
+            [ 106.8031727, 10.8701153, 33.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 33.2 ],
+            [ 106.8031662, 10.8701218, 33.2 ],
+            [ 106.8031727, 10.8701153, 33.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 33 ],
+            [ 106.8031662, 10.8701218, 33 ],
+            [ 106.8031727, 10.8701153, 33 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 32.8 ],
+            [ 106.8031662, 10.8701218, 32.8 ],
+            [ 106.8031727, 10.8701153, 32.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R1)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2336,6 +2754,671 @@
             [ 106.8031744, 10.8701136, 35 ],
             [ 106.8031809, 10.8701071, 35 ],
             [ 106.8031874, 10.8701006, 35 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 34.8 ],
+            [ 106.8031809, 10.8701071, 34.8 ],
+            [ 106.8031874, 10.8701006, 34.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 34.6 ],
+            [ 106.8031809, 10.8701071, 34.6 ],
+            [ 106.8031874, 10.8701006, 34.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 34.4 ],
+            [ 106.8031809, 10.8701071, 34.4 ],
+            [ 106.8031874, 10.8701006, 34.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 34.2 ],
+            [ 106.8031809, 10.8701071, 34.2 ],
+            [ 106.8031874, 10.8701006, 34.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 34 ],
+            [ 106.8031809, 10.8701071, 34 ],
+            [ 106.8031874, 10.8701006, 34 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 33.8 ],
+            [ 106.8031809, 10.8701071, 33.8 ],
+            [ 106.8031874, 10.8701006, 33.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 33.6 ],
+            [ 106.8031809, 10.8701071, 33.6 ],
+            [ 106.8031874, 10.8701006, 33.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 33.4 ],
+            [ 106.8031809, 10.8701071, 33.4 ],
+            [ 106.8031874, 10.8701006, 33.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 33.2 ],
+            [ 106.8031809, 10.8701071, 33.2 ],
+            [ 106.8031874, 10.8701006, 33.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 33 ],
+            [ 106.8031809, 10.8701071, 33 ],
+            [ 106.8031874, 10.8701006, 33 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 32.8 ],
+            [ 106.8031809, 10.8701071, 32.8 ],
+            [ 106.8031874, 10.8701006, 32.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 41.6 ],
+            [ 106.8031514, 10.8701365, 41.6 ],
+            [ 106.8031580, 10.8701300, 41.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 41.4 ],
+            [ 106.8031514, 10.8701365, 41.4 ],
+            [ 106.8031580, 10.8701300, 41.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 41.2 ],
+            [ 106.8031514, 10.8701365, 41.2 ],
+            [ 106.8031580, 10.8701300, 41.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 41 ],
+            [ 106.8031514, 10.8701365, 41 ],
+            [ 106.8031580, 10.8701300, 41 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 40.8 ],
+            [ 106.8031514, 10.8701365, 40.8 ],
+            [ 106.8031580, 10.8701300, 40.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 40.6 ],
+            [ 106.8031514, 10.8701365, 40.6 ],
+            [ 106.8031580, 10.8701300, 40.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 40.4 ],
+            [ 106.8031514, 10.8701365, 40.4 ],
+            [ 106.8031580, 10.8701300, 40.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031450, 10.8701430, 40.2 ],
+            [ 106.8031514, 10.8701365, 40.2 ],
+            [ 106.8031580, 10.8701300, 40.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 41.6 ],
+            [ 106.8031662, 10.8701218, 41.6 ],
+            [ 106.8031727, 10.8701153, 41.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 41.4 ],
+            [ 106.8031662, 10.8701218, 41.4 ],
+            [ 106.8031727, 10.8701153, 41.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 41.2 ],
+            [ 106.8031662, 10.8701218, 41.2 ],
+            [ 106.8031727, 10.8701153, 41.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 41 ],
+            [ 106.8031662, 10.8701218, 41 ],
+            [ 106.8031727, 10.8701153, 41 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 40.8 ],
+            [ 106.8031662, 10.8701218, 40.8 ],
+            [ 106.8031727, 10.8701153, 40.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 40.6 ],
+            [ 106.8031662, 10.8701218, 40.6 ],
+            [ 106.8031727, 10.8701153, 40.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 40.4 ],
+            [ 106.8031662, 10.8701218, 40.4 ],
+            [ 106.8031727, 10.8701153, 40.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031597, 10.8701283, 40.2 ],
+            [ 106.8031662, 10.8701218, 40.2 ],
+            [ 106.8031727, 10.8701153, 40.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 41.6 ],
+            [ 106.8031809, 10.8701071, 41.6 ],
+            [ 106.8031874, 10.8701006, 41.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 41.4 ],
+            [ 106.8031809, 10.8701071, 41.4 ],
+            [ 106.8031874, 10.8701006, 41.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 41.2 ],
+            [ 106.8031809, 10.8701071, 41.2 ],
+            [ 106.8031874, 10.8701006, 41.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 41 ],
+            [ 106.8031809, 10.8701071, 41 ],
+            [ 106.8031874, 10.8701006, 41 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 40.8 ],
+            [ 106.8031809, 10.8701071, 40.8 ],
+            [ 106.8031874, 10.8701006, 40.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 40.6 ],
+            [ 106.8031809, 10.8701071, 40.6 ],
+            [ 106.8031874, 10.8701006, 40.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 40.4 ],
+            [ 106.8031809, 10.8701071, 40.4 ],
+            [ 106.8031874, 10.8701006, 40.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so huong nha B (L1R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8031744, 10.8701136, 40.2 ],
+            [ 106.8031809, 10.8701071, 40.2 ],
+            [ 106.8031874, 10.8701006, 40.2 ]
 
           ]
         ]
@@ -2364,6 +3447,367 @@
       "type": "Feature",
       "properties": {
         "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 34.8 ],
+            [ 106.8028509, 10.8704291, 34.8 ],
+            [ 106.8028574, 10.8704266, 34.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 34.6 ],
+            [ 106.8028509, 10.8704291, 34.6 ],
+            [ 106.8028574, 10.8704266, 34.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 34.4 ],
+            [ 106.8028509, 10.8704291, 34.4 ],
+            [ 106.8028574, 10.8704266, 34.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 34.2 ],
+            [ 106.8028509, 10.8704291, 34.2 ],
+            [ 106.8028574, 10.8704266, 34.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 34 ],
+            [ 106.8028509, 10.8704291, 34 ],
+            [ 106.8028574, 10.8704266, 34 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 33.8 ],
+            [ 106.8028509, 10.8704291, 33.8 ],
+            [ 106.8028574, 10.8704266, 33.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 33.6 ],
+            [ 106.8028509, 10.8704291, 33.6 ],
+            [ 106.8028574, 10.8704266, 33.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 33.4 ],
+            [ 106.8028509, 10.8704291, 33.4 ],
+            [ 106.8028574, 10.8704266, 33.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 33.2 ],
+            [ 106.8028509, 10.8704291, 33.2 ],
+            [ 106.8028574, 10.8704266, 33.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 33 ],
+            [ 106.8028509, 10.8704291, 33 ],
+            [ 106.8028574, 10.8704266, 33 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 32.8 ],
+            [ 106.8028509, 10.8704291, 32.8 ],
+            [ 106.8028574, 10.8704266, 32.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 41.6 ],
+            [ 106.8028509, 10.8704291, 41.6 ],
+            [ 106.8028574, 10.8704266, 41.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 41.4 ],
+            [ 106.8028509, 10.8704291, 41.4 ],
+            [ 106.8028574, 10.8704266, 41.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 41.2 ],
+            [ 106.8028509, 10.8704291, 41.2 ],
+            [ 106.8028574, 10.8704266, 41.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 41 ],
+            [ 106.8028509, 10.8704291, 41 ],
+            [ 106.8028574, 10.8704266, 41 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 40.8 ],
+            [ 106.8028509, 10.8704291, 40.8 ],
+            [ 106.8028574, 10.8704266, 40.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 40.6 ],
+            [ 106.8028509, 10.8704291, 40.6 ],
+            [ 106.8028574, 10.8704266, 40.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 40.4 ],
+            [ 106.8028509, 10.8704291, 40.4 ],
+            [ 106.8028574, 10.8704266, 40.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so nha xe (phải)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028444, 10.8704316, 40.2 ],
+            [ 106.8028509, 10.8704291, 40.2 ],
+            [ 106.8028574, 10.8704266, 40.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
         "name": "cua so sanh vao (Phai 3)"
       },
       "geometry": {
@@ -2374,6 +3818,215 @@
             [ 106.8026940, 10.8700962, 35 ],
             [ 106.8027005, 10.8701027, 35 ],
             [ 106.8027070, 10.8701092, 35 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 34.8 ],
+            [ 106.8027005, 10.8701027, 34.8 ],
+            [ 106.8027070, 10.8701092, 34.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 34.6 ],
+            [ 106.8027005, 10.8701027, 34.6 ],
+            [ 106.8027070, 10.8701092, 34.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 34.4 ],
+            [ 106.8027005, 10.8701027, 34.4 ],
+            [ 106.8027070, 10.8701092, 34.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 34.2 ],
+            [ 106.8027005, 10.8701027, 34.2 ],
+            [ 106.8027070, 10.8701092, 34.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 34 ],
+            [ 106.8027005, 10.8701027, 34 ],
+            [ 106.8027070, 10.8701092, 34 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 33.8 ],
+            [ 106.8027005, 10.8701027, 33.8 ],
+            [ 106.8027070, 10.8701092, 33.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 33.6 ],
+            [ 106.8027005, 10.8701027, 33.6 ],
+            [ 106.8027070, 10.8701092, 33.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 33.4 ],
+            [ 106.8027005, 10.8701027, 33.4 ],
+            [ 106.8027070, 10.8701092, 33.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 33.2 ],
+            [ 106.8027005, 10.8701027, 33.2 ],
+            [ 106.8027070, 10.8701092, 33.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 33 ],
+            [ 106.8027005, 10.8701027, 33 ],
+            [ 106.8027070, 10.8701092, 33 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 32.8 ],
+            [ 106.8027005, 10.8701027, 32.8 ],
+            [ 106.8027070, 10.8701092, 32.8 ]
 
           ]
         ]
@@ -2402,6 +4055,215 @@
       "type": "Feature",
       "properties": {
         "@id": "2",
+        "name": "cua so sanh vao (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 34.8 ],
+            [ 106.8028488, 10.8699597, 34.8 ],
+            [ 106.8027217, 10.8701239, 34.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 34.6 ],
+            [ 106.8028488, 10.8699597, 34.6 ],
+            [ 106.8027217, 10.8701239, 34.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 34.4 ],
+            [ 106.8028488, 10.8699597, 34.4 ],
+            [ 106.8027217, 10.8701239, 34.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 34.2 ],
+            [ 106.8028488, 10.8699597, 34.2 ],
+            [ 106.8027217, 10.8701239, 34.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 34 ],
+            [ 106.8028488, 10.8699597, 34 ],
+            [ 106.8027217, 10.8701239, 34 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 33.8 ],
+            [ 106.8028488, 10.8699597, 33.8 ],
+            [ 106.8027217, 10.8701239, 33.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 33.6 ],
+            [ 106.8028488, 10.8699597, 33.6 ],
+            [ 106.8027217, 10.8701239, 33.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 33.4 ],
+            [ 106.8028488, 10.8699597, 33.4 ],
+            [ 106.8027217, 10.8701239, 33.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 33.2 ],
+            [ 106.8028488, 10.8699597, 33.2 ],
+            [ 106.8027217, 10.8701239, 33.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 33 ],
+            [ 106.8028488, 10.8699597, 33 ],
+            [ 106.8027217, 10.8701239, 33 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 32.8 ],
+            [ 106.8028488, 10.8699597, 32.8 ],
+            [ 106.8027217, 10.8701239, 32.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
         "name": "cua so sanh vao (Phai 1)"
       },
       "geometry": {
@@ -2412,6 +4274,671 @@
             [ 106.8027234, 10.8701256, 35 ],
             [ 106.8027299, 10.8701321, 35 ],
             [ 106.8027364, 10.8701386, 35 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 34.8 ],
+            [ 106.8027299, 10.8701321, 34.8 ],
+            [ 106.8027364, 10.8701386, 34.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 34.6 ],
+            [ 106.8027299, 10.8701321, 34.6 ],
+            [ 106.8027364, 10.8701386, 34.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 34.4 ],
+            [ 106.8027299, 10.8701321, 34.4 ],
+            [ 106.8027364, 10.8701386, 34.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 34.2 ],
+            [ 106.8027299, 10.8701321, 34.2 ],
+            [ 106.8027364, 10.8701386, 34.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 34 ],
+            [ 106.8027299, 10.8701321, 34 ],
+            [ 106.8027364, 10.8701386, 34 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 33.8 ],
+            [ 106.8027299, 10.8701321, 33.8 ],
+            [ 106.8027364, 10.8701386, 33.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 33.6 ],
+            [ 106.8027299, 10.8701321, 33.6 ],
+            [ 106.8027364, 10.8701386, 33.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 33.4 ],
+            [ 106.8027299, 10.8701321, 33.4 ],
+            [ 106.8027364, 10.8701386, 33.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 33.2 ],
+            [ 106.8027299, 10.8701321, 33.2 ],
+            [ 106.8027364, 10.8701386, 33.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 33 ],
+            [ 106.8027299, 10.8701321, 33 ],
+            [ 106.8027364, 10.8701386, 33 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 32.8 ],
+            [ 106.8027299, 10.8701321, 32.8 ],
+            [ 106.8027364, 10.8701386, 32.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 41.6 ],
+            [ 106.8027005, 10.8701027, 41.6 ],
+            [ 106.8027070, 10.8701092, 41.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 41.4 ],
+            [ 106.8027005, 10.8701027, 41.4 ],
+            [ 106.8027070, 10.8701092, 41.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 41.2 ],
+            [ 106.8027005, 10.8701027, 41.2 ],
+            [ 106.8027070, 10.8701092, 41.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 41 ],
+            [ 106.8027005, 10.8701027, 41 ],
+            [ 106.8027070, 10.8701092, 41 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 40.8 ],
+            [ 106.8027005, 10.8701027, 40.8 ],
+            [ 106.8027070, 10.8701092, 40.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 40.6 ],
+            [ 106.8027005, 10.8701027, 40.6 ],
+            [ 106.8027070, 10.8701092, 40.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 40.4 ],
+            [ 106.8027005, 10.8701027, 40.4 ],
+            [ 106.8027070, 10.8701092, 40.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8026940, 10.8700962, 40.2 ],
+            [ 106.8027005, 10.8701027, 40.2 ],
+            [ 106.8027070, 10.8701092, 40.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 41.6 ],
+            [ 106.8027152, 10.8701174, 41.6 ],
+            [ 106.8027217, 10.8701239, 41.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 41.4 ],
+            [ 106.8028488, 10.8699597, 41.4 ],
+            [ 106.8027217, 10.8701239, 41.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 41.2 ],
+            [ 106.8028488, 10.8699597, 41.2 ],
+            [ 106.8027217, 10.8701239, 41.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 41 ],
+            [ 106.8028488, 10.8699597, 41 ],
+            [ 106.8027217, 10.8701239, 41 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 40.8 ],
+            [ 106.8028488, 10.8699597, 40.8 ],
+            [ 106.8027217, 10.8701239, 40.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 40.6 ],
+            [ 106.8028488, 10.8699597, 40.6 ],
+            [ 106.8027217, 10.8701239, 40.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 40.4 ],
+            [ 106.8028488, 10.8699597, 40.4 ],
+            [ 106.8027217, 10.8701239, 40.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027087, 10.8701109, 40.2 ],
+            [ 106.8028488, 10.8699597, 40.2 ],
+            [ 106.8027217, 10.8701239, 40.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 41.6 ],
+            [ 106.8027299, 10.8701321, 41.6 ],
+            [ 106.8027364, 10.8701386, 41.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 41.4 ],
+            [ 106.8027299, 10.8701321, 41.4 ],
+            [ 106.8027364, 10.8701386, 41.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 41.2 ],
+            [ 106.8027299, 10.8701321, 41.2 ],
+            [ 106.8027364, 10.8701386, 41.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 41 ],
+            [ 106.8027299, 10.8701321, 41 ],
+            [ 106.8027364, 10.8701386, 41 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 40.8 ],
+            [ 106.8027299, 10.8701321, 40.8 ],
+            [ 106.8027364, 10.8701386, 40.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 40.6 ],
+            [ 106.8027299, 10.8701321, 40.6 ],
+            [ 106.8027364, 10.8701386, 40.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 40.4 ],
+            [ 106.8027299, 10.8701321, 40.4 ],
+            [ 106.8027364, 10.8701386, 40.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "cua so sanh vao (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8027234, 10.8701256, 40.2 ],
+            [ 106.8027299, 10.8701321, 40.2 ],
+            [ 106.8027364, 10.8701386, 40.2 ]
 
           ]
         ]
@@ -2440,6 +4967,215 @@
       "type": "Feature",
       "properties": {
         "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 34.8 ],
+            [ 106.8028488, 10.8699597, 34.8 ],
+            [ 106.8028553, 10.8699647, 34.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 34.6 ],
+            [ 106.8028488, 10.8699597, 34.6 ],
+            [ 106.8028553, 10.8699647, 34.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 34.4 ],
+            [ 106.8028488, 10.8699597, 34.4 ],
+            [ 106.8028553, 10.8699647, 34.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 34.2 ],
+            [ 106.8028488, 10.8699597, 34.2 ],
+            [ 106.8028553, 10.8699647, 34.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 34 ],
+            [ 106.8028488, 10.8699597, 34 ],
+            [ 106.8028553, 10.8699647, 34 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 33.8 ],
+            [ 106.8028488, 10.8699597, 33.8 ],
+            [ 106.8028553, 10.8699647, 33.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 33.6 ],
+            [ 106.8028488, 10.8699597, 33.6 ],
+            [ 106.8028553, 10.8699647, 33.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 33.4 ],
+            [ 106.8028488, 10.8699597, 33.4 ],
+            [ 106.8028553, 10.8699647, 33.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 33.2 ],
+            [ 106.8028488, 10.8699597, 33.2 ],
+            [ 106.8028553, 10.8699647, 33.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 33 ],
+            [ 106.8028488, 10.8699597, 33 ],
+            [ 106.8028553, 10.8699647, 33 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 32.8 ],
+            [ 106.8028488, 10.8699597, 32.8 ],
+            [ 106.8028553, 10.8699647, 32.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
         "name": "Cua so sanh vao nha C (Phai 2)"
       },
       "geometry": {
@@ -2459,6 +5195,215 @@
       "type": "Feature",
       "properties": {
         "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 34.8 ],
+            [ 106.8028642, 10.8699714, 34.8 ],
+            [ 106.8028707, 10.8699764, 34.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 34.6 ],
+            [ 106.8028642, 10.8699714, 34.6 ],
+            [ 106.8028707, 10.8699764, 34.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 34.4 ],
+            [ 106.8028642, 10.8699714, 34.4 ],
+            [ 106.8028707, 10.8699764, 34.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 34.2 ],
+            [ 106.8028642, 10.8699714, 34.2 ],
+            [ 106.8028707, 10.8699764, 34.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 34 ],
+            [ 106.8028642, 10.8699714, 34 ],
+            [ 106.8028707, 10.8699764, 34 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 33.8 ],
+            [ 106.8028642, 10.8699714, 33.8 ],
+            [ 106.8028707, 10.8699764, 33.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 33.6 ],
+            [ 106.8028642, 10.8699714, 33.6 ],
+            [ 106.8028707, 10.8699764, 33.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 33.4 ],
+            [ 106.8028642, 10.8699714, 33.4 ],
+            [ 106.8028707, 10.8699764, 33.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 33.2 ],
+            [ 106.8028642, 10.8699714, 33.2 ],
+            [ 106.8028707, 10.8699764, 33.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 33 ],
+            [ 106.8028642, 10.8699714, 33 ],
+            [ 106.8028707, 10.8699764, 33 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 32.8 ],
+            [ 106.8028642, 10.8699714, 32.8 ],
+            [ 106.8028707, 10.8699764, 32.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
         "name": "Cua so sanh vao nha C (Phai 1)"
       },
       "geometry": {
@@ -2469,6 +5414,671 @@
             [ 106.8028724, 10.8699781, 35 ],
             [ 106.8028789, 10.8699831, 35 ],
             [ 106.8028854, 10.8699881, 35 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 34.8 ],
+            [ 106.8028789, 10.8699831, 34.8 ],
+            [ 106.8028854, 10.8699881, 34.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 34.6 ],
+            [ 106.8028789, 10.8699831, 34.6 ],
+            [ 106.8028854, 10.8699881, 34.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 34.4 ],
+            [ 106.8028789, 10.8699831, 34.4 ],
+            [ 106.8028854, 10.8699881, 34.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 34.2 ],
+            [ 106.8028789, 10.8699831, 34.2 ],
+            [ 106.8028854, 10.8699881, 34.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 34 ],
+            [ 106.8028789, 10.8699831, 34 ],
+            [ 106.8028854, 10.8699881, 34 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 33.8 ],
+            [ 106.8028789, 10.8699831, 33.8 ],
+            [ 106.8028854, 10.8699881, 33.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 33.6 ],
+            [ 106.8028789, 10.8699831, 33.6 ],
+            [ 106.8028854, 10.8699881, 33.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 33.4 ],
+            [ 106.8028789, 10.8699831, 33.4 ],
+            [ 106.8028854, 10.8699881, 33.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 33.2 ],
+            [ 106.8028789, 10.8699831, 33.2 ],
+            [ 106.8028854, 10.8699881, 33.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 33 ],
+            [ 106.8028789, 10.8699831, 33 ],
+            [ 106.8028854, 10.8699881, 33 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Phai 1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 32.8 ],
+            [ 106.8028789, 10.8699831, 32.8 ],
+            [ 106.8028854, 10.8699881, 32.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 41.6 ],
+            [ 106.8028488, 10.8699597, 41.6 ],
+            [ 106.8028553, 10.8699647, 41.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 41.4 ],
+            [ 106.8028488, 10.8699597, 41.4 ],
+            [ 106.8028553, 10.8699647, 41.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 41.2 ],
+            [ 106.8028488, 10.8699597, 41.2 ],
+            [ 106.8028553, 10.8699647, 41.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 41 ],
+            [ 106.8028488, 10.8699597, 41 ],
+            [ 106.8028553, 10.8699647, 41 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 40.8 ],
+            [ 106.8028488, 10.8699597, 40.8 ],
+            [ 106.8028553, 10.8699647, 40.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 40.6 ],
+            [ 106.8028488, 10.8699597, 40.6 ],
+            [ 106.8028553, 10.8699647, 40.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 40.4 ],
+            [ 106.8028488, 10.8699597, 40.4 ],
+            [ 106.8028553, 10.8699647, 40.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R3)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028423, 10.8699547, 40.2 ],
+            [ 106.8028488, 10.8699597, 40.2 ],
+            [ 106.8028553, 10.8699647, 40.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 41.6 ],
+            [ 106.8028642, 10.8699714, 41.6 ],
+            [ 106.8028707, 10.8699764, 41.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 41.4 ],
+            [ 106.8028642, 10.8699714, 41.4 ],
+            [ 106.8028707, 10.8699764, 41.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 41.2 ],
+            [ 106.8028642, 10.8699714, 41.2 ],
+            [ 106.8028707, 10.8699764, 41.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 41 ],
+            [ 106.8028642, 10.8699714, 41 ],
+            [ 106.8028707, 10.8699764, 41 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 40.8 ],
+            [ 106.8028642, 10.8699714, 40.8 ],
+            [ 106.8028707, 10.8699764, 40.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 40.6 ],
+            [ 106.8028642, 10.8699714, 40.6 ],
+            [ 106.8028707, 10.8699764, 40.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 40.4 ],
+            [ 106.8028642, 10.8699714, 40.4 ],
+            [ 106.8028707, 10.8699764, 40.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028577, 10.8699664, 40.2 ],
+            [ 106.8028642, 10.8699714, 40.2 ],
+            [ 106.8028707, 10.8699764, 40.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 41.6 ],
+            [ 106.8028789, 10.8699831, 41.6 ],
+            [ 106.8028854, 10.8699881, 41.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 41.4 ],
+            [ 106.8028789, 10.8699831, 41.4 ],
+            [ 106.8028854, 10.8699881, 41.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 41.2 ],
+            [ 106.8028789, 10.8699831, 41.2 ],
+            [ 106.8028854, 10.8699881, 41.2 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 41 ],
+            [ 106.8028789, 10.8699831, 41 ],
+            [ 106.8028854, 10.8699881, 41 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 40.8 ],
+            [ 106.8028789, 10.8699831, 40.8 ],
+            [ 106.8028854, 10.8699881, 40.8 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 40.6 ],
+            [ 106.8028789, 10.8699831, 40.6 ],
+            [ 106.8028854, 10.8699881, 40.6 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 40.4 ],
+            [ 106.8028789, 10.8699831, 40.4 ],
+            [ 106.8028854, 10.8699881, 40.4 ]
+
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "2",
+        "name": "Cua so sanh vao nha C (Tang 1 - R1)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [ 106.8028724, 10.8699781, 40.2 ],
+            [ 106.8028789, 10.8699831, 40.2 ],
+            [ 106.8028854, 10.8699881, 40.2 ]
 
           ]
         ]
