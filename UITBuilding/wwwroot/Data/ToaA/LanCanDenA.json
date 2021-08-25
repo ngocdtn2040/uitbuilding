@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "6",
+        "name": "Lan can ra nha C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 106.802993154429, 10.8699899039833, 43 ],
+            [ 106.802889798696, 10.8699924471926, 43 ],
+            [ 106.802889798696, 10.8699954471926, 43 ],
+            [ 106.802990154429, 10.8699929039833, 43 ]
+
+
+
+
+          ]
+        ]
+      },
+      "id": "6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "6",
+        "name": "Lan can sanh A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 106.802739317538, 10.8701412272756, 43 ],
+            [ 106.802739317458, 10.8702460696791, 43 ],
+            [ 106.802742317458, 10.8702550696791, 43 ],
+            [ 106.802742317538, 10.8701382272756, 43 ]
+
+
+
+
+          ]
+        ]
+      },
+      "id": "6"
+    }
+  ]
+}
+  

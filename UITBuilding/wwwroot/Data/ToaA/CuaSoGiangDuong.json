@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "6",
+        "name": "Giang duong A1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 106.802987951695, 10.8700713929462, 45.6 ],
+            [ 106.802965233138, 10.8700667393462, 45.6 ],
+
+            [ 106.802965233138, 10.8700667293462, 45.6 ],
+            [ 106.802987951695, 10.8700713829462, 45.6 ]
+
+
+
+
+
+          ]
+        ]
+      },
+      "id": "6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "6",
+        "name": "Giang duong A1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 106.802956233138, 10.8700667393462, 45.6 ],
+            [ 106.802935138945, 10.8700667581245, 45.6 ],
+
+            [ 106.802935138945, 10.8700667481245, 45.6 ],
+            [ 106.802956233138, 10.8700667293462, 45.6 ]
+
+
+
+
+
+          ]
+        ]
+      },
+      "id": "6"
+    }
+  ]
+}
+  

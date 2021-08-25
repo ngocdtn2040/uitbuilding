@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "6",
+        "name": "Cua Chinh Giang duong A1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 106.803038978968, 10.8701030152333, 42 ],
+            [ 106.803021274492, 10.8700871929401, 42 ],
+            [ 106.802995951695, 10.8700733829462, 42 ]
+
+
+
+
+
+          ]
+        ]
+      },
+      "id": "6"
+    }
+  ]
+}
+  
