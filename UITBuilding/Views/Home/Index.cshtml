@@ -169,6 +169,10 @@
                 thuVienA = new GeoJSONLayer({
                     url: "data/ToaA/ThuVienA.json"
                 }),
+                //Cua chinh nha dieu hanh A
+                cuaChinhNhaDieuHanhA = new GeoJSONLayer({
+                    url: "data/ToaA/CuaChinhNhaDieuHanhA.json"
+                }),
             nhaE.renderer = {
                 type: "simple",
                 symbol: {
@@ -663,9 +667,9 @@
 
                         {
                             type: "extrude",
-                            size: 6,
+                            size: 5,
                             material: {
-                                color: [234, 234, 234]
+                                color: [255, 255, 255]
                             },
                             edges: {
                                 type: "solid", // autocasts as new SolidEdges3D()
@@ -758,7 +762,7 @@
                             type: "extrude",
                             size: 1,
                             material: {
-                                color: [0, 255, 0]
+                                color: [242, 242, 242]
                             },
                             edges: {
                                 type: "solid", // autocasts as new SolidEdges3D()
@@ -871,7 +875,7 @@
 
                         {
                             type: "extrude",
-                            size: 7,
+                            size: 6.25,
                             material: {
                                 color: [183, 184, 179]
                             },
@@ -896,7 +900,7 @@
                             type: "extrude",
                             size: 7,
                             material: {
-                                color: [242, 242, 242]
+                                color: [255, 255, 255]
                             },
                             edges: {
                                 type: "solid", // autocasts as new SolidEdges3D()
@@ -919,7 +923,7 @@
                             type: "extrude",
                             size: 7,
                             material: {
-                                color: [242, 242, 242]
+                                color: [255, 255, 255]
                             },
                             edges: {
                                 type: "solid", // autocasts as new SolidEdges3D()
@@ -987,7 +991,7 @@
 
                         {
                             type: "extrude",
-                            size: 0.5,
+                            size: 0.75,
                             material: {
                                 color: [255, 255, 255, 0]
                             },
@@ -1001,11 +1005,35 @@
                     ]
                 }
             };
+
+            //cuaChinhNhaDieuHanhA
+            cuaChinhNhaDieuHanhA.renderer = {
+                type: "simple",
+                symbol: {
+                    type: "polygon-3d",
+                    symbolLayers: [
+
+                        {
+                            type: "extrude",
+                            size: 5.5,
+                            material: {
+                                color: [245, 245, 220]
+                            },
+                            edges: {
+                                type: "solid", // autocasts as new SolidEdges3D()
+                                color: [255, 255, 255, 0],
+                                size: 3
+                            },
+
+                        }
+                    ]
+                }
+            };
           
             const map = new Map({
                 basemap: "topo-vector",
                 ground: "world-elevation",
-                layers: [tangtretA, nennhaA, mainhaA, maitronA, phonghocA, bacthangnhaA, cuasoA, maihienA, thuVienA, nhaDieuHanhA, giangduongA, cuaChinhGiangDuongA, cuaSoGiangDuongA, phongBanA, bucTuongA, tuongLungA, lanCanDenA, thongGioA, nhaC, nhaE, phonghoc, lancan, cir, nenham, behoa, bacthangnho, cuaso, cuasosau, cuaso2, cuaso3, cuasonho, cuasovua, nen, nentang2, cotnha, cotnha2, cotnha3, bacthang] //end layers
+                layers: [tangtretA, nennhaA, mainhaA, maitronA, phonghocA, bacthangnhaA, cuasoA, maihienA, thuVienA, nhaDieuHanhA, giangduongA, cuaChinhNhaDieuHanhA, cuaChinhGiangDuongA, cuaSoGiangDuongA, phongBanA, bucTuongA, tuongLungA, lanCanDenA, thongGioA, nhaC, nhaE, phonghoc, lancan, cir, nenham, behoa, bacthangnho, cuaso, cuasosau, cuaso2, cuaso3, cuasonho, cuasovua, nen, nentang2, cotnha, cotnha2, cotnha3, bacthang] //end layers
             });
 
             const view = new SceneView({
